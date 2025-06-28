@@ -69,16 +69,6 @@ Proyek ini bertujuan untuk:
 
 ---
 
-# 📁 Struktur Proyek
-
-```bash
-📦 predictive-maintenance-turbine
-├── turbin_dummy.ipynb       # Notebook utama
-├── turbin_dummy.csv         # Dataset sintetik
-└── README.md                # Penjelasan proyek
-
----
-
 ## 📌 Catatan Tambahan
 
 Proyek ini merupakan dummy project yang saya buat untuk menunjukkan pemahaman saya dalam membangun dashboard bisnis dan menyajikan insight berbasis data yang actionable.  
